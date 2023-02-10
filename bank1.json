@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "_Customer__username": "Kimpa",
+            "_Customer__password": "1234",
+            "accounts": [
+                "'account_number':23:'balance':0:'owner':Kimpa",
+                "'account_number':24:'balance':0:'owner':Kimpa",
+                "'account_number':30:'balance':0:'owner':Kimpa"
+            ],
+            "_Customer__logged_in": true
+        },
+        {
+            "_Customer__username": "Kim",
+            "_Customer__password": "1234",
+            "accounts": [],
+            "_Customer__logged_in": false
+        },
+        {
+            "_Customer__username": "crusader96",
+            "_Customer__password": "1234",
+            "accounts": [],
+            "_Customer__logged_in": false
+        }
+    ],
+    [
+        {
+            "_Account__account_number": 23,
+            "_Account__balance": 0,
+            "_Account__account_owner": "Kimpa"
+        },
+        {
+            "_Account__account_number": 24,
+            "_Account__balance": 0,
+            "_Account__account_owner": "Kimpa"
+        },
+        {
+            "_Account__account_number": 30,
+            "_Account__balance": 0,
+            "_Account__account_owner": "Kimpa"
+        }
+    ],
+    {
+        "highest_id": 30
+    }
+]
